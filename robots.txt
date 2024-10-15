@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://ivejeeci.github.io/SvG/sitemap_index.txt.gz
+Sitemap: https://ivejeeci.github.io/Ukm/sitemap_index.txt.gz
+Sitemap: https://ivejeeci.github.io/VUa/sitemap_index.txt.gz
+Sitemap: https://ivejeeci.github.io/mEv/sitemap_index.txt.gz
+Sitemap: https://ivejeeci.github.io/sitemap/sitemap_index.txt.gz
+Sitemap: https://ivejeeci.github.io/wNj/sitemap_index.txt.gz
